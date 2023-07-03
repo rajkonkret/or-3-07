@@ -84,7 +84,7 @@ print(liczby.pop(3))
 print(len(liczby))  # 4
 print(liczby)  # [999, 687, 6666, 12.34]
 
-krotka = tuple(liczby)
+krotka = tuple(liczby)  # zamiana listy na krotke(tuple)
 print(krotka)  # (999, 687, 6666, 12.34)
 
 # 13:30
