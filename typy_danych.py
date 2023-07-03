@@ -47,7 +47,7 @@ print(bool(x))  # False
 x = 'radek'
 print(bool(x))  # True
 
-x = None  # None - nic
+x = True  # None - nic
 print(bool(x))  # False
 
 x = ''
