@@ -33,3 +33,15 @@ print(tekst_format)
 # \b - backspace - czyli usuwa znak bezpośrednio przed nim
 # 11:25
 
+starszy = "Witaj %s"
+# %s - oznacz wstaw w to miejsce string
+print(starszy % imie)  # Witaj Radek
+
+print("""
+    Tekst
+wielolinijkowy""")
+
+# "    Tekst
+# wielolinijkowy"
+
+print("Witaj {}".format(imie))  # Witaj Radek
