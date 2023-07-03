@@ -113,3 +113,4 @@ for i, (o, w, j) in enumerate(zip(ludzie, wiek, jezyk)):
     print(i, o, w, j)  # 3 Marcin 32
 # 0 Radek 47 java
 # 1 Zenek 67 python
+# łaczy wszystkie mozliwe, pozostałe pomija
