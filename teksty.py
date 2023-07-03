@@ -32,3 +32,4 @@ print(tekst_format)
 # \n = znak nowej linii
 # \b - backspace - czyli usuwa znak bezpośrednio przed nim
 # 11:25
+
