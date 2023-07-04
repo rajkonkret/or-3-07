@@ -28,3 +28,4 @@ while True:
         print("Nie ma błędu")
     finally:
         print("Zawsze")
+# 11:25
