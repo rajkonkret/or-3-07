@@ -1,5 +1,6 @@
 # for - petla iterujaca
 import random
+from itertools import zip_longest
 
 for i in range(10):  # 0..9
     print(i)
@@ -114,3 +115,33 @@ for i, (o, w, j) in enumerate(zip(ludzie, wiek, jezyk)):
 # 0 Radek 47 java
 # 1 Zenek 67 python
 # łaczy wszystkie mozliwe, pozostałe pomija
+
+zipped = zip_longest(ludzie, wiek, jezyk, fillvalue='Nan')
+print(zipped)
+
+# for item in zipped:
+#     print(type(item))
+#     print(item)
+# ('Radek', 47, 'java')
+# ('Zenek', 67, 'python')
+# ('Asia', 34, 'Nan')
+# ('Marcin', 32, 'Nan')
+# ('Franek', 'Nan', 'Nan')
+
+for o1, w1, j1 in zipped:
+    print(o1, w1, j1)
+# Radek 47 java
+# Zenek 67 python
+# Asia 34 Nan
+# Marcin 32 Nan
+# Franek Nan Nan
+
+
+for i in range(0, 10, 2):  # start, stop, step(krok)
+    print(i)
+
+for i in range(-10, 0, 2):
+    print(i)
+
+for i in range(10, 0, -2):  # odlicza w dół
+    print(i)
