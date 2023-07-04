@@ -38,3 +38,4 @@ pprint(gold_last)  # ładniej wyswietla dane
 #  {'cena': 249.36, 'data': '2023-06-30'},
 #  {'cena': 252.47, 'data': '2023-07-03'},
 #  {'cena': 252.47, 'data': '2023-07-04'}]
+# 14:50
