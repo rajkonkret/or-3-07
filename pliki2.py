@@ -1,5 +1,5 @@
 import chardet
-
+# pip install chardet
 file_path = 'test.log'
 
 with open(file_path, 'rb') as file:
