@@ -27,3 +27,4 @@ liczby(1, 2, 3)
 liczby(1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
 liczby("1", 2, 3)  # Bład unsupported operand type(s) for +=: 'int' and 'str'
 liczby("a", 2)  # Bład unsupported operand type(s) for +=: 'int' and 'str'
+# 11:30
