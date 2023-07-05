@@ -25,3 +25,8 @@ allparams(1, 2, 3, 3, 4, 5, 6, 7, 710, d=18, root="/")  # kwargs {'root': '/'}
 allparams(1, 2, 3, 3, 4, 5, 6, 7, 710, d=18, root="/", user="Radek")  # kwargs {'root': '/', 'user': 'Radek'}
 allparams(1, 2, 3, 3, 4, 5, 6, 7, 710, d=18, root="/", user="Radek", a=9)
 # kwargs {'root': '/', 'user': 'Radek', 'a': 9}
+# allparams(a=1, user="radek") bez /
+# # a, b 1 0
+# # c, d 42 256
+# # args ()
+# # kwargs {'user': 'radek'}
