@@ -1,5 +1,6 @@
 # dekoratory
 
+
 def dekor(funk):
     def wew():
         print("Dekorujemy")
@@ -27,3 +28,4 @@ hej1()
 # Dekorujemy
 # Coś
 # Ja nie jestem Hej :)
+# 13:25
