@@ -17,6 +17,12 @@ def connect(**opcje):
     print(connect_param['pwd']['klucz'])  # wartosc
 
 
+def connect2(*opcje):
+    print(opcje)  # ({'name': 'Radek'},)
+
+
+connect2({'name': "Radek"})
+
 # connect(1)  # TypeError: connect() takes 0 positional arguments but 1 was given
 # connect(1, 2, 3)
 # 1,2,3,4,5,6,7 - lista, krotka, set
