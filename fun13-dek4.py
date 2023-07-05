@@ -1,4 +1,5 @@
 import time
+import math
 
 
 def measure_time(func):
@@ -16,8 +17,10 @@ def measure_time(func):
 @measure_time
 def my_function():
     # pass  # Czas wykonania funkcji my_function: 0.0 sec
-    # print(2024 ** 1024)  # Czas wykonania funkcji my_function: 0.0010492801666259766 sec
-    time.sleep(2)  # Czas wykonania funkcji my_function: 2.000582695007324 sec - wstrzymanie działania programu na 2s
+    print(2024 ** 1024)  # Czas wykonania funkcji my_function: 0.0010492801666259766 sec
+    # time.sleep(2)  # Czas wykonania funkcji my_function: 2.000582695007324 sec - wstrzymanie działania programu na 2s
+    # print(math.sqrt(25))  # Czas wykonania funkcji my_function: 0.0 sec
+    # print(math.pow(2023, 1024))  # OverflowError: math range error
 
 
 my_function()
