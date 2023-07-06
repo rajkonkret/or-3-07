@@ -59,3 +59,4 @@ deserialized_data = pickle.loads(serialized_data)
 print(deserialized_data)  # {'name': 'John', 'age': 30, 'city': 'New York'}
 print(type(serialized_data))  # <class 'bytes'>
 print(type(deserialized_data))  # <class 'dict'>
+# 12:35
