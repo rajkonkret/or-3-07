@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExchangeRatesTable xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ExchangeRatesTable>
+        <Table>A</Table>
+        <No>129/A/NBP/2023</No>
+        <EffectiveDate>2023-07-06</EffectiveDate>
+        <Rates>
+            <Rate>
+                <Currency>bat (Tajlandia)</Currency>
+                <Code>THB</Code>
+                <Mid>0.1174</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar ameryka\xc5\x84ski</Currency>
+                <Code>USD</Code>
+                <Mid>4.1191</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar australijski</Currency>
+                <Code>AUD</Code>
+                <Mid>2.7474</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar Hongkongu</Currency>
+                <Code>HKD</Code>
+                <Mid>0.5270</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar kanadyjski</Currency>
+                <Code>CAD</Code>
+                <Mid>3.0981</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar nowozelandzki</Currency>
+                <Code>NZD</Code>
+                <Mid>2.5519</Mid>
+            </Rate>
+            <Rate>
+                <Currency>dolar singapurski</Currency>
+                <Code>SGD</Code>
+                <Mid>3.0474</Mid>
+            </Rate>
+            <Rate>
+                <Currency>euro</Currency>
+                <Code>EUR</Code>
+                <Mid>4.4754</Mid>
+            </Rate>
+            <Rate>
+                <Currency>forint (W\xc4\x99gry)</Currency>
+                <Code>HUF</Code>
+                <Mid>0.011717</Mid>
+            </Rate>
+            <Rate>
+                <Currency>frank szwajcarski</Currency>
+                <Code>CHF</Code>
+                <Mid>4.5894</Mid>
+            </Rate>
+            <Rate>
+                <Currency>funt szterling</Currency>
+                <Code>GBP</Code>
+                <Mid>5.2362</Mid>
+            </Rate>
+            <Rate>
+                <Currency>hrywna (Ukraina)</Currency>
+                <Code>UAH</Code>
+                <Mid>0.1115</Mid>
+            </Rate>
+            <Rate>
+                <Currency>jen (Japonia)</Currency>
+                <Code>JPY</Code>
+                <Mid>0.028606</Mid>
+            </Rate>
+            <Rate>
+                <Currency>korona czeska</Currency>
+                <Code>CZK</Code>
+                <Mid>0.1878</Mid>
+            </Rate>
+            <Rate>
+                <Currency>korona du\xc5\x84ska</Currency>
+                <Code>DKK</Code>
+                <Mid>0.6009</Mid>
+            </Rate>
+            <Rate>
+                <Currency>korona islandzka</Currency>
+                <Code>ISK</Code>
+                <Mid>0.030137</Mid>
+            </Rate>
+            <Rate>
+                <Currency>korona norweska</Currency>
+                <Code>NOK</Code>
+                <Mid>0.3849</Mid>
+            </Rate>
+            <Rate>
+                <Currency>korona szwedzka</Currency>
+                <Code>SEK</Code>
+                <Mid>0.3759</Mid>
+            </Rate>
+            <Rate>
+                <Currency>lej rumu\xc5\x84ski</Currency>
+                <Code>RON</Code>
+                <Mid>0.9037</Mid>
+            </Rate>
+            <Rate>
+                <Currency>lew (Bu\xc5\x82garia)</Currency>
+                <Code>BGN</Code>
+                <Mid>2.2882</Mid>
+            </Rate>
+            <Rate>
+                <Currency>lira turecka</Currency>
+                <Code>TRY</Code>
+                <Mid>0.1578</Mid>
+            </Rate>
+            <Rate>
+                <Currency>nowy izraelski szekel</Currency>
+                <Code>ILS</Code>
+                <Mid>1.1114</Mid>
+            </Rate>
+            <Rate>
+                <Currency>peso chilijskie</Currency>
+                <Code>CLP</Code>
+                <Mid>0.005168</Mid>
+            </Rate>
+            <Rate>
+                <Currency>peso filipi\xc5\x84skie</Currency>
+                <Code>PHP</Code>
+                <Mid>0.0741</Mid>
+            </Rate>
+            <Rate>
+                <Currency>peso meksyka\xc5\x84skie</Currency>
+                <Code>MXN</Code>
+                <Mid>0.2419</Mid>
+            </Rate>
+            <Rate>
+                <Currency>rand (Republika Po\xc5\x82udniowej Afryki)</Currency>
+                <Code>ZAR</Code>
+                <Mid>0.2183</Mid>
+            </Rate>
+            <Rate>
+                <Currency>real (Brazylia)</Currency>
+                <Code>BRL</Code>
+                <Mid>0.8495</Mid>
+            </Rate>
+            <Rate>
+                <Currency>ringgit (Malezja)</Currency>
+                <Code>MYR</Code>
+                <Mid>0.8834</Mid>
+            </Rate>
+            <Rate>
+                <Currency>rupia indonezyjska</Currency>
+                <Code>IDR</Code>
+                <Mid>0.00027379</Mid>
+            </Rate>
+            <Rate>
+                <Currency>rupia indyjska</Currency>
+                <Code>INR</Code>
+                <Mid>0.049909</Mid>
+            </Rate>
+            <Rate>
+                <Currency>won po\xc5\x82udniowokorea\xc5\x84ski</Currency>
+                <Code>KRW</Code>
+                <Mid>0.003162</Mid>
+            </Rate>
+            <Rate>
+                <Currency>yuan renminbi (Chiny)</Currency>
+                <Code>CNY</Code>
+                <Mid>0.5686</Mid>
+            </Rate>
+            <Rate>
+                <Currency>SDR (MFW)</Currency>
+                <Code>XDR</Code>
+                <Mid>5.4804</Mid>
+            </Rate>
+        </Rates>
+    </ExchangeRatesTable>
+</ArrayOfExchangeRatesTable>
+<!--&#45;&#45;&#45;&#45;&#45;&#45;-->
+<!--THB: bat (Tajlandia) - 0.1174-->
+<!--USD: dolar amerykański - 4.1191-->
+<!--AUD: dolar australijski - 2.7474-->
+<!--HKD: dolar Hongkongu - 0.5270-->
+<!--CAD: dolar kanadyjski - 3.0981-->
+<!--NZD: dolar nowozelandzki - 2.5519-->
+<!--SGD: dolar singapurski - 3.0474-->
+<!--EUR: euro - 4.4754-->
+<!--HUF: forint (Węgry) - 0.011717-->
+<!--CHF: frank szwajcarski - 4.5894-->
+<!--GBP: funt szterling - 5.2362-->
+<!--UAH: hrywna (Ukraina) - 0.1115-->
+<!--JPY: jen (Japonia) - 0.028606-->
+<!--CZK: korona czeska - 0.1878-->
+<!--DKK: korona duńska - 0.6009-->
+<!--ISK: korona islandzka - 0.030137-->
+<!--NOK: korona norweska - 0.3849-->
+<!--SEK: korona szwedzka - 0.3759-->
+<!--RON: lej rumuński - 0.9037-->
+<!--BGN: lew (Bułgaria) - 2.2882-->
+<!--TRY: lira turecka - 0.1578-->
+<!--ILS: nowy izraelski szekel - 1.1114-->
+<!--CLP: peso chilijskie - 0.005168-->
+<!--PHP: peso filipińskie - 0.0741-->
+<!--MXN: peso meksykańskie - 0.2419-->
+<!--ZAR: rand (Republika Południowej Afryki) - 0.2183-->
+<!--BRL: real (Brazylia) - 0.8495-->
+<!--MYR: ringgit (Malezja) - 0.8834-->
+<!--IDR: rupia indonezyjska - 0.00027379-->
+<!--INR: rupia indyjska - 0.049909-->
+<!--KRW: won południowokoreański - 0.003162-->
+<!--CNY: yuan renminbi (Chiny) - 0.5686-->
+<!--XDR: SDR (MFW) - 5.4804-->
