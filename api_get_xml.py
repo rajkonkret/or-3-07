@@ -29,3 +29,4 @@ for rate in rates:
     code = rate.find('Code').text
     mid = rate.find('Mid').text
     print(f"{code}: {currency} - {mid}")
+# 14:25
