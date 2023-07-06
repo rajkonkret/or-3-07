@@ -1,3 +1,4 @@
+import random
 import turtle
 
 t = turtle.Turtle()
@@ -6,6 +7,7 @@ t.setheading(90)
 t.penup()
 t.goto(0, -200)
 t.pendown()
+t.color("red")
 
 
 def draw(t, len_):
