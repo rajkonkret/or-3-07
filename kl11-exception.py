@@ -9,3 +9,4 @@ except MyException:
     print("Wystąpił wyjątek MyException")
 except Exception as e:
     print("Bład", e)
+# 11:25
