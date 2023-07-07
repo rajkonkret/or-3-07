@@ -45,3 +45,5 @@ class GradeCalculator:
 root = tk.Tk()
 calculator_app = GradeCalculator(root)
 root.mainloop()
+
+# pyinstaller.exe - -noconsole - -onefile.\tk_inter9_ttt.py
