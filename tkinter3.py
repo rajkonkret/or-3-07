@@ -16,3 +16,4 @@ button = tk.Button(app, text="Pokaż tekst", command=show_text)
 button.pack(side=tk.BOTTOM)
 
 app.mainloop()
+# 11:30
