@@ -3,6 +3,7 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 
+# plik home.html musi byc umieszczony w katalogu templates w głównym katalogu projektu
 @app.route("/")
 def home():
     # return "Hello World"
